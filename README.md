@@ -2,4 +2,4 @@
 
 This is a minimal interactive dashboard using Plotly and Pandas, running on Binder.
 
-[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benchharp/example_iris/main?filepath=app.py)
+[![Launch Streamlit on Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/benchharp/example_iris/main?urlpath=%2Fstreamlit%2Fapp.py)
